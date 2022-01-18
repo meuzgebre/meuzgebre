@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @meuzgebre
-- 👀 I’m interested in AI, NLP, Machine Learning, Pattern Recognition, Fuzzy System, Interactive 3D processing, Deep Learning 
+- 👀 I’m interested in NLP, Machine Learning, Pattern Recognition, Computer Vision 
 - 🌱 I’m currently learning ☝️
 - 💞️ I’m looking to collaborate on ☝️
-- 📫 How to reach me meuzgebre
+- 📫 How to reach me mossy327@gmail.com
 
 <!---
 meuzgebre/meuzgebre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
