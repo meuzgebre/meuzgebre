@@ -2,7 +2,7 @@
 - 👀 I’m interested in NLP, Machine Learning, Pattern Recognition, Computer Vision 
 - 🌱 I’m currently learning ☝️
 - 💞️ I’m looking to collaborate on ☝️
-- 📫 How to reach me mossy327@gmail.com
+- 📫 How to reach me 
 
 <!---
 meuzgebre/meuzgebre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
