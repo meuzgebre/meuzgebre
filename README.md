@@ -1,2 +1,2 @@
-## 👋 Hi, I’m ** Meuz Gebreegziabher**
+## 👋 Hi, I’m ** Meuz Gebreegziabher **
 
