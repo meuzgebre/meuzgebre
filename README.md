@@ -1,2 +1,3 @@
-## 👋 Hi, I’m ` Meuz Gebreegziabher `
+## Born to Code!
+---
 
