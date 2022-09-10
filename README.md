@@ -1,2 +1,2 @@
-## I am too lazy to add somethings here!
+## Totally not a hacker.
 ---
