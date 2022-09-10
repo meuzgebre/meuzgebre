@@ -1,3 +1,2 @@
-## I too lazy adding somethings here!
+## I am too lazy to add somethings here!
 ---
-
