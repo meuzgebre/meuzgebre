@@ -1,17 +1,20 @@
-# Hello there 👋, I'm Meuz Kidane
+### About me
 
-![Linux](https://img.shields.io/github/followers/meuzgebre.svg?style=flat&label=Follow&maxAge=2592000")
+My name is Meuz Kidane, I'm a passionate IT professional with a strong background in Cyber Security, Linux, Networking and Python ninja. My journey in the tech world is fueled by a curiosity to explore new technologies and a commitment to creating secure and efficient solutions. 
+
+![Linux](https://img.shields.io/github/followers/meuzgebre.svg?style=flat&label=Follow&maxAge=2592000)
 
 ![](https://komarev.com/ghpvc/?username=meuzgebre)
 
-### About me
+### Find Me 
 
-I'm a passionate IT professional with a strong background in Cyber Security, Linux, Networking and Python ninja. My journey in the tech world is fueled by a curiosity to explore new technologies and a commitment to creating secure and efficient solutions.
+• Website:  [pyzion.com](http://pyzion.com) <br>
+• Twitter: [@meuzge](https://twitter.com/meuzge) <br> 
+• Linkedin: [@meuzgebre](https://linkedin.com/in/meuzgebre) <br>
+  
+<br>
 
-- 🔭 I’m currently working on enhancing my skills in penetration testing and threat detection.
-- 🌱 I’m always learning and staying updated with the latest advancements in the IT and Cyber Security landscape.
-- 👯 I’m looking to collaborate on open-source projects related to security tools and automation scripts.
-- 💬 Ask me about Python, Cyber Security best practices, or anything tech-related! m.gebre@proton.me
+![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
 
 ##### Tech Stack
 
