@@ -2,6 +2,9 @@
 
 My name is Meuz Kidane, I'm a passionate IT professional with a strong background in Cyber Security, Linux, Networking and Python ninja. My journey in the tech world is fueled by a curiosity to explore new technologies and a commitment to creating secure and efficient solutions. 
 
+###### Donation
+[💜 Buy me a coffee](https://www.buymeacoffee.com/meuz)
+
 ![Linux](https://img.shields.io/github/followers/meuzgebre.svg?style=flat&label=Follow&maxAge=2592000)
 
 ![](https://komarev.com/ghpvc/?username=meuzgebre)
@@ -36,8 +39,3 @@ My name is Meuz Kidane, I'm a passionate IT professional with a strong backgroun
 <img align="right" alt="GIF" height="160px" src="https://github-readme-stats.vercel.app/api?username=meuzgebre&theme=blue-green" />
 
 <img align="center" alt="GIF" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meuzgebre&theme=blue-green" />
-
-
-
-###### Donation
-[💜 Buy me a coffee](https://www.buymeacoffee.com/meuz)
