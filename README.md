@@ -3,7 +3,7 @@
 My name is Meuz Kidane, I'm a passionate IT professional with a strong background in Cyber Security, Linux, Networking and Python ninja. My journey in the tech world is fueled by a curiosity to explore new technologies and a commitment to creating secure and efficient solutions. 
 
 ###### Donation
-[💜 You Can Support Me Here!](https://www.buymeacoffee.com/meuz)
+[You Can Support Me Here!](https://www.buymeacoffee.com/meuz) 💜
 
 ![Linux](https://img.shields.io/github/followers/meuzgebre.svg?style=flat&label=Follow&maxAge=2592000)
 
