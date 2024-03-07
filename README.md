@@ -1,6 +1,4 @@
-###### Donation
-
-[You Can Support Me Here!](https://www.buymeacoffee.com/meuz) 💜
+###### Do What You Love Most, Most Important1y Be Kind.
 
 ![Linux](https://img.shields.io/github/followers/meuzgebre.svg?style=flat&label=Follow&maxAge=2592000)
 
